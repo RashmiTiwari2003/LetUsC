@@ -1,0 +1,96 @@
+Y1
+Q1. Adding digits of a number
+Num = 124 , Ans=7
+Q2. Reversing a Number
+Num = 124 , Ans=421
+Q3. Sum of first and last num
+Num = 124 , Ans=6 //ye 5 hona chahiye na
+Q4. Adding 1 to each digit
+Num = 124 , Ans=235
+Q5. 100 50 10 denominations are available find num of notes for each
+Num = 270 , Ans=2(100) + 1(50) + 2(10)
+
+Y2
+Q6. Check if a number is leap year
+Num 2024 , Leap year
+Num 2000 , Not a leap year // if curious then google
+Q7. As per Gregorian Callendar 01/01/01 was a Monday
+   User will input a Year and find what day it was on 1st January of that year
+Q8. Check if three coordinate points are collinear or not
+Q9. Center and radius of a circle is given find if a given point lies in the circle,outside the circle or on the circle
+Q10. Check if entered character is uppercase or lowercase
+
+Y3
+Q11. Print all ASCII values and letters; from A-Z and a-z
+Q12. check Armstrong Number
+Q13. There are total 21 matchsticks and player can pick only 1 or 2 or 3 or 4 matchstick at a time
+and the person to pick the last matchstick looses
+Make a Program such that the computer wins every time
+Q14. Convert Decimal to Octal
+Q15. write a program to print all prime numbers from 1 to 300 in O(root(N)) complexity
+Q16. 
+/* Produce following output
+A B C D E F G F E D C B A
+A B C D E F   F E D C B A
+A B C D E       E D C B A
+A B C D           D C B A
+A B C               C B A
+A B                   B A
+A                       A
+*/
+Q17. 
+/*n Produce following output
+   1
+  2 3
+ 4 5 6
+7 8 9 10
+*/
+Q18. 
+/*
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1
+*/  
+
+Y5
+
+Q19.
+/*
+ * Convert decimal to roman number
+ * 1000 - M
+ * 500  - D
+ * 100  - C
+ * 50   - L
+ * 10   - X
+ * 5    - V
+ * 1    - I
+ */
+
+Q20.  Find all the prime factors of a given number
+Q21. Find sum of digits of only last 5 digits of a given number using recursion
+Q22. Fibonacci using recursion
+Q23. /*Find gcd using uclids alogorithm
+for eg 1980 and 1617
+1980/1617 = 1 + 368 //363
+1617/368 = 4 +165
+368/165 = 2 +33
+165/33 = 5 + 0
+Therefore 33 is the gcd of 1980 and 1617*/
+
+Y8
+Q24. Use Sieve Eratosthenes Method to find Prime Numbers upto 100 (Youtube mai video dekh lena sieve of Erathosthenes)
+Q25. 
+/*
+---------------------
+|  1 |  4 | 15 |  7 |
+---------------------
+|  8 | 10 |  2 | 11 |
+---------------------
+| 14 |  3 |  6 | 13 |
+---------------------
+| 12 |  9 |  5 |    |
+---------------------
+*/
+(Ye Game bana k dikhao, Y8k6.c , iss file ko run karo samajh ahjayega)
